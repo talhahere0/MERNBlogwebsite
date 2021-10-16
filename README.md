@@ -15,4 +15,4 @@ if you need to run this web application you need to follow some steps.
 if you see and mistake or you want to add something new or special feel free to add.
 thanks.
 
-![ss](https://user-images.githubusercontent.com/77249679/133459235-07bfea2b-f090-4e59-a9b6-1dd83c2fbd3e.PNG)
+![image](https://user-images.githubusercontent.com/77249679/137577209-a9561fa2-2003-4695-957e-f1c0c76145ec.png)
